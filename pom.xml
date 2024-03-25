@@ -13,8 +13,8 @@
     </parent>
 
 
-    <groupId>oldA</groupId>
-    <artifactId>olda-mybatis-plus-generator</artifactId>
+    <groupId>losingways</groupId>
+    <artifactId>mybatis-plus-generator</artifactId>
     <version>1.0-SNAPSHOT</version>
     <description>mybatis-plus代码生成器</description>
 
